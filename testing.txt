@@ -1,1 +1,2 @@
-Hello this is the first version of txt file that I am going to push to GitHub.
+Hello this is the first version of txt file that I am going to push to GitHub. 
+My name is Bartek and I am from Poland. I am 18 years old.
